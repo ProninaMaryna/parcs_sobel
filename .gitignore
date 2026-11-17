@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+
+# великі згенеровані файли (відтворюються tools/make_input.py)
+inputs/*_2000*.txt
+output*.txt
+results/cloud_outputs/
+
+*.docx
+*.pdf
+~$*

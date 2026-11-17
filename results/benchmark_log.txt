@@ -1,0 +1,17 @@
+Workers registered on master: 4
+  #0  172.31.30.61:58015  {'cpu': 'Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz', 'ram': '4 GB'}
+  #1  172.31.16.103:48329  {'cpu': 'Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz', 'ram': '4 GB'}
+  #2  172.31.20.202:44443  {'cpu': 'Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz', 'ram': '4 GB'}
+  #3  172.31.17.238:39827  {'cpu': 'Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz', 'ram': '4 GB'}
+N=0 run 1: job #0 submitted ... parallel=11.45 s, slowest worker=11.45 s, UI duration=15 s
+N=0 run 2: job #1 submitted ... parallel=11.46 s, slowest worker=11.46 s, UI duration=15 s
+N=1 run 1: job #2 submitted ... parallel=11.54 s, slowest worker=11.06 s, UI duration=16 s
+N=1 run 2: job #3 submitted ... parallel=11.60 s, slowest worker=11.17 s, UI duration=15 s
+N=2 run 1: job #4 submitted ... parallel=5.94 s, slowest worker=5.67 s, UI duration=10 s
+N=2 run 2: job #5 submitted ... parallel=5.96 s, slowest worker=5.71 s, UI duration=9 s
+N=3 run 1: job #6 submitted ... parallel=4.01 s, slowest worker=3.81 s, UI duration=7 s
+N=3 run 2: job #7 submitted ... parallel=4.02 s, slowest worker=3.84 s, UI duration=8 s
+N=4 run 1: job #8 submitted ... parallel=3.06 s, slowest worker=2.88 s, UI duration=7 s
+N=4 run 2: job #9 submitted ... parallel=3.03 s, slowest worker=2.87 s, UI duration=6 s
+
+saved C:\Users\V\Downloads\УНІВЕР\Хмарні Обчислення\lab1-parcs-sobel\results\cloud.csv
